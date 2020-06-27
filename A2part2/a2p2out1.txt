@@ -1,0 +1,512 @@
+Record #0
+Username: root
+uid: 0
+gid:  0
+gecos: root
+uhd: /root
+logshell: /bin/bash
+
+Record #1
+Username: bin
+uid: 1
+gid:  1
+gecos: bin
+uhd: /bin
+logshell: /sbin/nologin
+
+Record #2
+Username: daemon
+uid: 2
+gid:  2
+gecos: daemon
+uhd: /sbin
+logshell: /sbin/nologin
+
+Record #3
+Username: adm
+uid: 3
+gid:  4
+gecos: adm
+uhd: /var/adm
+logshell: /sbin/nologin
+
+Record #4
+Username: lp
+uid: 4
+gid:  7
+gecos: lp
+uhd: /var/spool/lpd
+logshell: /sbin/nologin
+
+Record #5
+Username: sync
+uid: 5
+gid:  0
+gecos: sync
+uhd: /sbin
+logshell: /bin/sync
+
+Record #6
+Username: shutdown
+uid: 6
+gid:  0
+gecos: shutdown
+uhd: /sbin
+logshell: /sbin/shutdown
+
+Record #7
+Username: halt
+uid: 7
+gid:  0
+gecos: halt
+uhd: /sbin
+logshell: /sbin/halt
+
+Record #8
+Username: mail
+uid: 8
+gid:  12
+gecos: mail
+uhd: /var/spool/mail
+logshell: /sbin/nologin
+
+Record #9
+Username: operator
+uid: 11
+gid:  0
+gecos: operator
+uhd: /root
+logshell: /sbin/nologin
+
+Record #10
+Username: games
+uid: 12
+gid:  100
+gecos: games
+uhd: /usr/games
+logshell: /sbin/nologin
+
+Record #11
+Username: ftp
+uid: 14
+gid:  50
+gecos: FTP User
+uhd: /var/ftp
+logshell: /sbin/nologin
+
+Record #12
+Username: nobody
+uid: 99
+gid:  99
+gecos: Nobody
+uhd: /
+logshell: /sbin/nologin
+
+Record #13
+Username: pegasus
+uid: 66
+gid:  65
+gecos: tog-pegasus OpenPegasus WBEM/CIM services
+uhd: /var/lib/Pegasus
+logshell: /sbin/nologin
+
+Record #14
+Username: avahi-autoipd
+uid: 170
+gid:  170
+gecos: Avahi IPv4LL Stack
+uhd: /var/lib/avahi-autoipd
+logshell: /sbin/nologin
+
+Record #15
+Username: systemd-bus-proxy
+uid: 999
+gid:  997
+gecos: systemd Bus Proxy
+uhd: /
+logshell: /sbin/nologin
+
+Record #16
+Username: systemd-network
+uid: 998
+gid:  996
+gecos: systemd Network Management
+uhd: /
+logshell: /sbin/nologin
+
+Record #17
+Username: dbus
+uid: 81
+gid:  81
+gecos: System message bus
+uhd: /
+logshell: /sbin/nologin
+
+Record #18
+Username: polkitd
+uid: 997
+gid:  995
+gecos: User for polkitd
+uhd: /
+logshell: /sbin/nologin
+
+Record #19
+Username: sssd
+uid: 996
+gid:  994
+gecos: User for sssd
+uhd: /
+logshell: /sbin/nologin
+
+Record #20
+Username: apache
+uid: 48
+gid:  48
+gecos: Apache
+uhd: /usr/share/httpd
+logshell: /sbin/nologin
+
+Record #21
+Username: tss
+uid: 59
+gid:  59
+gecos: Account used by the trousers package to sandbox the tcsd daemon
+uhd: /dev/null
+logshell: /sbin/nologin
+
+Record #22
+Username: colord
+uid: 995
+gid:  992
+gecos: User for colord
+uhd: /var/lib/colord
+logshell: /sbin/nologin
+
+Record #23
+Username: abrt
+uid: 173
+gid:  173
+gecos: 
+uhd: /etc/abrt
+logshell: /sbin/nologin
+
+Record #24
+Username: unbound
+uid: 994
+gid:  991
+gecos: Unbound DNS resolver
+uhd: /etc/unbound
+logshell: /sbin/nologin
+
+Record #25
+Username: usbmuxd
+uid: 113
+gid:  113
+gecos: usbmuxd user
+uhd: /
+logshell: /sbin/nologin
+
+Record #26
+Username: saslauth
+uid: 993
+gid:  76
+gecos: Saslauthd user
+uhd: /run/saslauthd
+logshell: /sbin/nologin
+
+Record #27
+Username: postfix
+uid: 89
+gid:  89
+gecos: 
+uhd: /var/spool/postfix
+logshell: /sbin/nologin
+
+Record #28
+Username: libstoragemgmt
+uid: 992
+gid:  989
+gecos: daemon account for libstoragemgmt
+uhd: /var/run/lsm
+logshell: /sbin/nologin
+
+Record #29
+Username: geoclue
+uid: 991
+gid:  988
+gecos: User for geoclue
+uhd: /var/lib/geoclue
+logshell: /sbin/nologin
+
+Record #30
+Username: rpc
+uid: 32
+gid:  32
+gecos: Rpcbind Daemon
+uhd: /var/lib/rpcbind
+logshell: /sbin/nologin
+
+Record #31
+Username: setroubleshoot
+uid: 990
+gid:  987
+gecos: 
+uhd: /var/lib/setroubleshoot
+logshell: /sbin/nologin
+
+Record #32
+Username: rtkit
+uid: 172
+gid:  172
+gecos: RealtimeKit
+uhd: /proc
+logshell: /sbin/nologin
+
+Record #33
+Username: ntp
+uid: 38
+gid:  38
+gecos: 
+uhd: /etc/ntp
+logshell: /sbin/nologin
+
+Record #34
+Username: qemu
+uid: 107
+gid:  107
+gecos: qemu user
+uhd: /
+logshell: /sbin/nologin
+
+Record #35
+Username: rpcuser
+uid: 29
+gid:  29
+gecos: RPC Service User
+uhd: /var/lib/nfs
+logshell: /sbin/nologin
+
+Record #36
+Username: nfsnobody
+uid: 65534
+gid:  65534
+gecos: Anonymous NFS User
+uhd: /var/lib/nfs
+logshell: /sbin/nologin
+
+Record #37
+Username: radvd
+uid: 75
+gid:  75
+gecos: radvd user
+uhd: /
+logshell: /sbin/nologin
+
+Record #38
+Username: chrony
+uid: 989
+gid:  986
+gecos: 
+uhd: /var/lib/chrony
+logshell: /sbin/nologin
+
+Record #39
+Username: mysql
+uid: 27
+gid:  27
+gecos: MariaDB Server
+uhd: /var/lib/mysql
+logshell: /sbin/nologin
+
+Record #40
+Username: pcp
+uid: 988
+gid:  985
+gecos: Performance Co-Pilot
+uhd: /var/lib/pcp
+logshell: /sbin/nologin
+
+Record #41
+Username: pulse
+uid: 171
+gid:  171
+gecos: PulseAudio System Daemon
+uhd: /var/run/pulse
+logshell: /sbin/nologin
+
+Record #42
+Username: tomcat
+uid: 91
+gid:  91
+gecos: Apache Tomcat
+uhd: /usr/share/tomcat
+logshell: /bin/nologin
+
+Record #43
+Username: gdm
+uid: 42
+gid:  42
+gecos: 
+uhd: /var/lib/gdm
+logshell: /sbin/nologin
+
+Record #44
+Username: gnome-initial-setup
+uid: 987
+gid:  982
+gecos: 
+uhd: /run/gnome-initial-setup/
+logshell: /sbin/nologin
+
+Record #45
+Username: avahi
+uid: 70
+gid:  70
+gecos: Avahi mDNS/DNS-SD Stack
+uhd: /var/run/avahi-daemon
+logshell: /sbin/nologin
+
+Record #46
+Username: postgres
+uid: 26
+gid:  26
+gecos: PostgreSQL Server
+uhd: /var/lib/pgsql
+logshell: /bin/nologin
+
+Record #47
+Username: sshd
+uid: 74
+gid:  74
+gecos: Privilege-separated SSH
+uhd: /var/empty/sshd
+logshell: /sbin/nologin
+
+Record #48
+Username: oprofile
+uid: 16
+gid:  16
+gecos: Special user account to be used by OProfile
+uhd: /var/lib/oprofile
+logshell: /sbin/nologin
+
+Record #49
+Username: tcpdump
+uid: 72
+gid:  72
+gecos: 
+uhd: /
+logshell: /sbin/nologin
+
+Record #50
+Username: cslinuxtech
+uid: 199
+gid:  199
+gecos: Computer Science Department
+uhd: /cslinuxtech
+logshell: /bin/bash
+
+Record #51
+Username: nscd
+uid: 28
+gid:  28
+gecos: NSCD Daemon
+uhd: /
+logshell: /sbin/nologin
+
+Record #52
+Username: nslcd
+uid: 65
+gid:  55
+gecos: LDAP Client User
+uhd: /
+logshell: /sbin/nologin
+
+Record #53
+Username: dovenull
+uid: 237
+gid:  1376
+gecos: Dovecot's unauthorized user
+uhd: /usr/libexec/dovecot
+logshell: /sbin/nologin
+
+Record #54
+Username: lightdm
+uid: 236
+gid:  1379
+gecos: 
+uhd: /var/lib/lightdm
+logshell: /sbin/nologin
+
+Record #55
+Username: openvpn
+uid: 235
+gid:  1227
+gecos: OpenVPN
+uhd: /etc/openvpn
+logshell: /sbin/nologin
+
+Record #56
+Username: nm-openconnect
+uid: 234
+gid:  1236
+gecos: NetworkManager user for OpenConnect
+uhd: /
+logshell: /sbin/nologin
+
+Record #57
+Username: nm-openvpn
+uid: 233
+gid:  980
+gecos: Default user for running openvpn spawned by NetworkManager
+uhd: /
+logshell: /sbin/nologin
+
+Record #58
+Username: saned
+uid: 232
+gid:  978
+gecos: SANE scanner daemon user
+uhd: /usr/share/sane
+logshell: /sbin/nologin
+
+Record #59
+Username: gluster
+uid: 231
+gid:  1429
+gecos: GlusterFS daemons
+uhd: /run/gluster
+logshell: /sbin/nologin
+
+Record #60
+Username: paul
+uid: 501
+gid:  1000
+gecos: /home/paul
+uhd: /usr/bin/ksh
+logshell: paul:x:501:1000:/home/paul:/usr/bin/ksh
+
+Record #61
+Username: jdoe
+uid: 502
+gid:  1000
+gecos: John Doe
+uhd: /home/jdoe
+logshell: /usr/bin/ksh 
+
+Record #62
+Username: richm
+uid: 503
+gid:  1000
+gecos: Richard M
+uhd: /home/richm
+logshell: /usr/bin/ksh 
+
+Record #63
+Username: vishalp
+uid: 504
+gid:  1000
+gecos: Vishal P
+uhd: /home/vishalp
+logshell: /usr/bin/ksh
+
